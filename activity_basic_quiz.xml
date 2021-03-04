@@ -1,0 +1,313 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CB1F2020"
+    android:orientation="vertical"
+        tools:context=".BasicQuiz">
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+
+        android:paddingleft_Start="10dp"
+        android:text="Basic"
+
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingLeft="10dp"
+        android:text="Adobe Photoshop"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Illustrator"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Premiere Pro"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe After Effects"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Lightroom"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Dreamweaver"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Fresco"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Rush"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe XD"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Dimension"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Spark"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Muse"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Audition"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Flash"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+        android:paddingleft="10dp"
+        android:text="Adobe Bridge"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="15dp"
+    android:layout_marginTop="0dp"
+    android:layout_marginEnd="0dp"
+    android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+    android:text="Adobe Fireworks"
+    android:textColor="@android:color/white"
+    android:textSize="22sp">
+
+</TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Prelude"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe SpeedGrade"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+
+        android:paddingleft="10dp"
+        android:text="Adobe Flash"
+        android:textColor="@android:color/white"
+        android:textSize="22sp">
+
+    </TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
